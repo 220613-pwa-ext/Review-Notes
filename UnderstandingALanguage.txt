@@ -1,0 +1,21 @@
+Understaning a Programming Language 
+
+Fundamental 
+	Primitive/Simple Datatype 
+	Control flow syntax 
+	Declaration syntax 
+	Write "Hello World" 
+
+OOP: 
+	Inheritance 
+	Encapsulation 
+	Abstraction 
+	Polymorphism 
+
+Data Structures: 
+	Collection API (for Java)
+	Set, List, Map/Dictionary 
+
+Exceptions/Error 
+	How does this language work with errors? 
+	How to handle errors/exceptions. 
